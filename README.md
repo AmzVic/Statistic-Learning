@@ -1,2 +1,8 @@
-# Statistic-Learning
-## welcome to the world of data
+# 概率论和数理统计
+## 这里我会持续更新一些概率和数理统计相关的知识点。
+### Contents
+---
+序号 | 内容 | 
+---- | ----
+1 | [样本空间，随机事件]()
+2 | 
